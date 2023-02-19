@@ -1,0 +1,65 @@
+
+:root{
+background-color: rgba(0, 0, 0, 0.5);
+}
+
+body{
+    width: 60%;
+    margin-top: 1cm;
+    margin-right: 20%;
+    margin-bottom: 1cm;
+    margin-left: 20%;
+    padding-top: 1mm;
+    padding-bottom: 1mm;
+}
+
+/* global style */
+h2 {
+color: rgb(0, 0, 0);
+font-family: Arial, Helvetica;
+}
+
+h3 {
+color: rgb(0, 0, 0);
+font-family: Arial, Helvetica;
+background-color: rgba(0, 0, 0, 0.3);
+padding-left: 10px;
+padding-right: 10px;
+height: 22px;
+line-height: 22px;  /* no idea why this verticly aligns but it does */
+}
+
+h4 {
+color: rgb(0, 0, 0);
+font-family: Arial, Helvetica;
+padding-left: 10px;
+padding-right: 10px;
+}
+
+p {
+color: rgb(0, 0, 0);
+font-family: Arial, Helvetica;
+padding-left: 10px;
+padding-right: 10px;
+}
+
+li {
+color: rgb(0, 0, 0);
+font-family: Arial, Helvetica;
+padding-left: 10px;
+padding-right: 10px;
+}
+
+body {
+background-color: rgb(255, 255, 255);
+padding-left: 10px;
+padding-right: 10px;
+}
+
+
+
+/* style with the id header */
+#header {
+text-align: center;
+line-height: 0.1;
+}
